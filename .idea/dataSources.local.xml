@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="dataSourceStorageLocal" created-in="IU-232.8660.185">
-    <data-source name="@database-1.c4v7vclns4wo.us-east-2.rds.amazonaws.com" uuid="3cbd1d84-d1d1-476f-af72-185f91d99bb0">
+    <data-source name="@database-1.c4v7vclns4wo.us-east-2.rds.amazonaws.com" uuid="403fd9f4-3de9-4932-9dcd-ee43702b753b">
       <database-info product="MariaDB" version="10.6.14-MariaDB" jdbc-version="4.2" driver-name="MariaDB Connector/J" driver-version="3.0.7" dbms="MARIADB" exact-version="10.6.14" exact-driver-version="3.0">
         <extra-name-characters>#@</extra-name-characters>
         <identifier-quote-string>`</identifier-quote-string>
